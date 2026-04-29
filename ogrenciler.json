@@ -1,0 +1,35 @@
+{
+    "ogrenciler": [
+        {
+            "id": 1,
+            "ad": "Abuzer",
+            "soyad": "Kömürcü",
+            "vize": 100.0,
+            "final": 100.0,
+            "ortalama": 100.0,
+            "harf_notu": "AA",
+            "durum": "Geçti"
+        },
+        {
+            "id": 2,
+            "ad": "Ali",
+            "soyad": "Cabbar",
+            "vize": 70.0,
+            "final": 80.0,
+            "ortalama": 76.0,
+            "harf_notu": "BB",
+            "durum": "Geçti"
+        },
+        {
+            "id": 3,
+            "ad": "Veli",
+            "soyad": "Cabbar",
+            "vize": 20.0,
+            "final": 90.0,
+            "ortalama": 62.0,
+            "harf_notu": "CB",
+            "durum": "Geçti"
+        }
+    ],
+    "son_id": 4
+}
