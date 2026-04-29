@@ -1,0 +1,15 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Ali",
+            "surname": "Cabbar",
+            "midterm": 100.0,
+            "final": 80.0,
+            "average": 88.0,
+            "letter_grade": "BA",
+            "status": "Passed"
+        }
+    ],
+    "last_id": 2
+}
